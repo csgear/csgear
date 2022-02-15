@@ -1,12 +1,7 @@
 [user]
-	name = xiaoyang
-	email = xiaojun.yang.ext@nokia.com
-[http]
-	proxy = http://135.245.48.34:8000
-[http "https://wavesuite-bitbucket.labs.ca.alcatel-lucent.com:7990"]
-	proxy = 
-[http "https://gerrit.ext.net.nokia.com"]
-	proxy = 
+	name = csgear
+	email = csgear@live.com
+	
 [filter "lfs"]
 	smudge = git-lfs smudge -- %f
 	process = git-lfs filter-process
