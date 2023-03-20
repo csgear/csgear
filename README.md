@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @csgear
 - 👀 I’m interested in Algorimth
-- 🌱 I’m currently learning Tensorflow
-- 💞️ I’m looking to collaborate on React, Machine Learning
+- 🌱 I’m expert in Java system design, Kafka and Spring Boot
+- 💞️ I’m looking to collaborate on Reactive Programming, Event Driven System
 - 📫 How to reach me 
 
 <!---
